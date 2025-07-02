@@ -18,8 +18,12 @@ This project is a full-featured reporting dashboard built with **Next.js**, **Re
 ### 1. Clone the Repository
 
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Dev-Shakil/GainEdu.git
+cd GainEdu
+
+### Install Dependencies
+
+npm install
 
 ### 2. JSON Server Instructions
 This project uses json-server to mock a REST API from the db.json file.
