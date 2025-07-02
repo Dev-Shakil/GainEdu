@@ -1,0 +1,327 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Shakil",
+      "email": "shakil@example.com",
+      "year": "2025",
+      "gpa": 3.9
+    },
+    {
+      "id": "2",
+      "name": "Maya",
+      "email": "maya@example.com",
+      "year": "2024",
+      "gpa": 3.7
+    },
+    {
+      "id": "3",
+      "name": "Farhan",
+      "email": "farhan@example.com",
+      "year": "2025",
+      "gpa": 3.8
+    },
+    {
+      "id": "4",
+      "name": "Nusrat",
+      "email": "nusrat@example.com",
+      "year": "2023",
+      "gpa": 3.6
+    },
+    {
+      "id": "5",
+      "name": "Rafi",
+      "email": "rafi@example.com",
+      "year": "2024",
+      "gpa": 3.4
+    },
+    {
+      "id": "6",
+      "name": "Tania",
+      "email": "tania@example.com",
+      "year": "2023",
+      "gpa": 3.5
+    },
+    {
+      "id": "7",
+      "name": "Omar",
+      "email": "omar@example.com",
+      "year": "2025",
+      "gpa": 3.3
+    },
+    {
+      "id": "8",
+      "name": "Sara",
+      "email": "sara@example.com",
+      "year": "2023",
+      "gpa": 3.6
+    },
+    {
+      "id": "9",
+      "name": "Arman",
+      "email": "arman@example.com",
+      "year": "2024",
+      "gpa": 3.1
+    },
+    {
+      "id": "10",
+      "name": "Lubna",
+      "email": "lubna@example.com",
+      "year": "2025",
+      "gpa": 3.2
+    },
+    {
+      "id": "11",
+      "name": "Kamal",
+      "email": "kamal@example.com",
+      "year": "2024",
+      "gpa": 3.4
+    },
+    {
+      "id": "12",
+      "name": "Afia",
+      "email": "afia@example.com",
+      "year": "2023",
+      "gpa": 3.8
+    },
+    {
+      "id": "13",
+      "name": "Sajid",
+      "email": "sajid@example.com",
+      "year": "2025",
+      "gpa": 3.7
+    },
+    {
+      "id": "14",
+      "name": "Zara",
+      "email": "zara@example.com",
+      "year": "2024",
+      "gpa": 3.9
+    },
+    {
+      "id": "15",
+      "name": "Niloy",
+      "email": "niloy@example.com",
+      "year": "2023",
+      "gpa": 3.2
+    },
+    {
+      "id": "16",
+      "name": "Ruma",
+      "email": "ruma@example.com",
+      "year": "2025",
+      "gpa": 3.3
+    }
+  ],
+  "courses": [
+    {
+      "id": "101",
+      "title": "Web Dev",
+      "code": "WD101",
+      "facultyId": 1
+    },
+    {
+      "id": "102",
+      "title": "Algorithms",
+      "code": "AL201",
+      "facultyId": 2
+    },
+    {
+      "id": "103",
+      "title": "Databases",
+      "code": "DB301",
+      "facultyId": 3
+    },
+    {
+      "id": "104",
+      "title": "AI Basics",
+      "code": "AI101",
+      "facultyId": 1
+    },
+    {
+      "id": "105",
+      "title": "Machine Learning",
+      "code": "ML201",
+      "facultyId": 2
+    },
+    {
+      "id": "106",
+      "title": "Cloud Computing",
+      "code": "CC101",
+      "facultyId": 3
+    },
+    {
+      "id": "107",
+      "title": "Cyber Security",
+      "code": "CS401",
+      "facultyId": 4
+    },
+    {
+      "id": "108",
+      "title": "Operating Systems",
+      "code": "OS301",
+      "facultyId": 5
+    },
+    {
+      "id": "109",
+      "title": "Data Structures",
+      "code": "DS201",
+      "facultyId": 1
+    },
+    {
+      "id": "110",
+      "title": "Software Engineering",
+      "code": "SE501",
+      "facultyId": 5
+    }
+  ],
+  "faculty": [
+    {
+      "id": "1",
+      "name": "Dr. Imran",
+      "email": "imran@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Tahmid",
+      "email": "tahmid@example.com"
+    },
+    {
+      "id": "3",
+      "name": "Jannat",
+      "email": "jannat@example.com"
+    },
+    {
+      "id": "4",
+      "name": "Sabina",
+      "email": "sabina@example.com"
+    },
+    {
+      "id": "5",
+      "name": "Rayhan",
+      "email": "rayhan@example.com"
+    }
+  ],
+  "enrollments": [
+    {
+      "id": "1",
+      "studentId": 1,
+      "courseId": 101,
+      "grade": "A"
+    },
+    {
+      "id": "2",
+      "studentId": 2,
+      "courseId": 101,
+      "grade": "A+"
+    },
+    {
+      "id": "3",
+      "studentId": 2,
+      "courseId": 102,
+      "grade": "A+"
+    },
+    {
+      "id": "4",
+      "studentId": 3,
+      "courseId": 103,
+      "grade": "A-"
+    },
+    {
+      "id": "5",
+      "studentId": 4,
+      "courseId": 104,
+      "grade": "B+"
+    },
+    {
+      "id": "6",
+      "studentId": 5,
+      "courseId": 105,
+      "grade": "D"
+    },
+    {
+      "id": "7",
+      "studentId": 6,
+      "courseId": 106,
+      "grade": "B"
+    },
+    {
+      "id": "8",
+      "studentId": 7,
+      "courseId": 107,
+      "grade": "B+"
+    },
+    {
+      "id": "9",
+      "studentId": 8,
+      "courseId": 108,
+      "grade": "A"
+    },
+    {
+      "id": "10",
+      "studentId": 9,
+      "courseId": 109,
+      "grade": "C+"
+    },
+    {
+      "id": "11",
+      "studentId": 10,
+      "courseId": 110,
+      "grade": "B-"
+    },
+    {
+      "id": "12",
+      "studentId": 11,
+      "courseId": 101,
+      "grade": "A"
+    },
+    {
+      "id": "13",
+      "studentId": 12,
+      "courseId": 102,
+      "grade": "A+"
+    },
+    {
+      "id": "14",
+      "studentId": 13,
+      "courseId": 103,
+      "grade": "A"
+    },
+    {
+      "id": "15",
+      "studentId": 14,
+      "courseId": 104,
+      "grade": "B+"
+    },
+    {
+      "id": "16",
+      "studentId": 15,
+      "courseId": 105,
+      "grade": "A-"
+    },
+    {
+      "id": "17",
+      "studentId": 16,
+      "courseId": 106,
+      "grade": "B+"
+    },
+    {
+      "id": "18",
+      "studentId": 1,
+      "courseId": 107,
+      "grade": ""
+    },
+    {
+      "id": "19",
+      "studentId": 1,
+      "courseId": 102,
+      "grade": ""
+    },
+    {
+      "id": "20",
+      "studentId": 2,
+      "courseId": 103,
+      "grade": ""
+    }
+  ]
+}
